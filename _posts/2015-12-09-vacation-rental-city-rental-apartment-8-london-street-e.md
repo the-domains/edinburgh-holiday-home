@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.edinburghholidayflat.co.uk'
   name: 8 London Street
-  favicon: null
   domain: www.edinburghholidayflat.co.uk
+  url: 'http://www.edinburghholidayflat.co.uk'
+  favicon: null
 keywords:
   - bed
   - edinburgh
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.edinburghholidayflat.co.uk/'
 title: 'Vacation Rental, City Rental Apartment - 8 London Street - Edinburgh, Edinburgh'
-datePublished: '2015-12-09T17:23:12.450Z'
-dateModified: '2015-12-09T17:21:59.079Z'
+datePublished: '2015-12-09T17:29:09.728Z'
+dateModified: '2015-12-09T17:28:53.828Z'
 sourcePath: _posts/2015-12-09-vacation-rental-city-rental-apartment-8-london-street-e.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
