@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Edinburgh Holiday Home]]></title>
+        <description><![CDATA[Edinburgh Holiday Home]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 17:23:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vacation Rental, City Rental Apartment - 8 London Street - Edinburgh, Edinburgh]]></title>
+            <description><![CDATA[<article><h1>Vacation Rental, City Rental Apartment - 8 London Street - Edinburgh, Edinburgh</h1><p>City centre apartment sleeps 6, quality fittings and fixtures min 3 day let, spacious & within walking distance to attractions. Quality vacation rental in Edinburgh</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/785e496e1732af90f9afedf0d633d3c6fc1b69f8.jpg"></article>]]></description>
+            <link>http://www.edinburghholidayflat.co.uk/</link>
+            <guid isPermaLink="false">264c92f1-42bc-4376-95d1-9a2f7acfcee8</guid>
+            <pubDate>Wed, 09 Dec 2015 17:23:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
